@@ -5,6 +5,7 @@ const App = () => {
     return (
         <React.Fragment>
             <NavBar />
+            <p>Test</p>
         </React.Fragment >
     );
 }
